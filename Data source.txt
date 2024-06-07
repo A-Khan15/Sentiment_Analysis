@@ -1,0 +1,3 @@
+The CSV file containing reviews is too large to upload here, please find this at the below link.
+
+https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
